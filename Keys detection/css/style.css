@@ -1,0 +1,17 @@
+body{
+	background: green;
+}
+.container{
+	background: green;
+}
+
+.booth{
+	width:60%;
+	height:50%;
+	background:#ccc;
+	border:10px solid #ddd;
+	margin: 0px auto;
+}
+header{
+	color:red;
+}
